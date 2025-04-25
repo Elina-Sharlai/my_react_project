@@ -2,6 +2,8 @@ import "./App.css";
 import Product from "./Product";
 import BookList from "./BookList";
 
+
+
 const favBooks = [
   { id: "id-1", name: "JS for beginners" },
   { id: "id-2", name: "React basics" },
